@@ -12,4 +12,9 @@ int main()
     Increment(sal);
     cout<<"Salary inside main: "<<sal<<endl;
     return 0;
+
 }
+/*OUTPUT 
+Salary inside function: 32000
+Salary inside main: 32000
+    */
