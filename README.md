@@ -58,7 +58,7 @@ This method uses **C++ reference variables** so that the function directly works
 
 ***
 
-## **Final Summary**  
+## **Conclusion**  
 These three programs illustrate **different ways of passing arguments to functions in C++**:  
 
 - **Call by value** → passes copies, so the original variables remain unchanged.  
