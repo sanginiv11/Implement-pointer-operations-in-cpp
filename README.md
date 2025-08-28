@@ -3,7 +3,7 @@
 ### Objective  
 To explore and demonstrate different pointer operations in C++ through **call by value** and **call by reference** methods.  
 
-**Tools Used:** MinGW Compiler, Visual Studio Code, and Online C++ Compilers.  
+**Software Used:** MinGW Compiler, Visual Studio Code, and Online C++ Compilers.  
 
 ***
 
