@@ -15,4 +15,8 @@ int main() {
     cout<<"Value of b is:"<<b<<endl;
 
     return 0;
+
 }
+/* OUTPUT
+Value of a is:5
+Value of b is:2 */
