@@ -15,4 +15,9 @@ int main() {
     cout<<"Value of y is:"<<y<<endl;
 
     return 0;
+
 }
+/* OUTPUT
+Value of x is:100
+Value of y is:500
+    */
